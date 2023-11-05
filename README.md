@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BL2617
+- 👋 Hi, I’m @BL2617 and come from China.
 - 👀 I’m interested in 
 - 🌱 I’m currently learning cmd on Windows operation
 - 💞️ I’m looking to collaborate on ...
